@@ -1953,7 +1953,7 @@ namespace hibProcesses
     /// <summary>
     /// A powerfull process manager.
     /// </summary>
-    /// <remarks>Created by Hibernos</remarks>
+    /// <remarks>Created by Adrien SCELLES</remarks>
     /// <remarks>Enjoy hack and crack !</remarks>
     /// <remarks>Release 1.7.7</remarks>
     public class hibProcess
