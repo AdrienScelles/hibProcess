@@ -1,0 +1,4 @@
+C:\Users\Adrien SCELLES\Google Drive\DEV\hibSharp\Libraries\hibProcess\bin\x86\Release\hibProcess.dll
+C:\Users\Adrien SCELLES\Google Drive\DEV\hibSharp\Libraries\hibProcess\bin\x86\Release\hibProcess.pdb
+C:\Users\Adrien SCELLES\Google Drive\DEV\hibSharp\Libraries\hibProcess\obj\x86\Release\hibProcess.dll
+C:\Users\Adrien SCELLES\Google Drive\DEV\hibSharp\Libraries\hibProcess\obj\x86\Release\hibProcess.pdb
